@@ -11,6 +11,6 @@ Segue a tabela de valores:
                             Peão    - 1 
                       Linhas [a,b,c,d,e,f,g,h]
                       Colunas [1,2,3,4,5,6,7,8]
-Os Parametros para acesso da api são Posição Inicial, Posição Final, Peça. \n " +
-Ex: http://localhost:57365/api/values?pi=a7&pf=b8&peca=0  \n " +
+Os Parametros para acesso da api são Posição Inicial, Posição Final, Peça. 
+Ex: http://localhost:57365/api/values?pi=a7&pf=b8&peca=0  
 Ao digitar a entrada incorreta este texto é exibido novamente.";
